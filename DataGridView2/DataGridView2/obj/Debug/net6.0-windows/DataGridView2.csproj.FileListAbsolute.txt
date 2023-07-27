@@ -1,0 +1,17 @@
+D:\WinForm\DataGridView2\DataGridView2\bin\Debug\net6.0-windows\DataGridView2.exe
+D:\WinForm\DataGridView2\DataGridView2\bin\Debug\net6.0-windows\DataGridView2.deps.json
+D:\WinForm\DataGridView2\DataGridView2\bin\Debug\net6.0-windows\DataGridView2.runtimeconfig.json
+D:\WinForm\DataGridView2\DataGridView2\bin\Debug\net6.0-windows\DataGridView2.dll
+D:\WinForm\DataGridView2\DataGridView2\bin\Debug\net6.0-windows\DataGridView2.pdb
+D:\WinForm\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.csproj.AssemblyReference.cache
+D:\WinForm\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.Form1.resources
+D:\WinForm\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.csproj.GenerateResource.cache
+D:\WinForm\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WinForm\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.AssemblyInfoInputs.cache
+D:\WinForm\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.AssemblyInfo.cs
+D:\WinForm\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.csproj.CoreCompileInputs.cache
+D:\WinForm\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.dll
+D:\WinForm\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\refint\DataGridView2.dll
+D:\WinForm\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.pdb
+D:\WinForm\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\DataGridView2.genruntimeconfig.cache
+D:\WinForm\DataGridView2\DataGridView2\obj\Debug\net6.0-windows\ref\DataGridView2.dll
